@@ -1,5 +1,5 @@
-import {useState} from React;
+import {useState} from 'react';
 
-function Map{
+function Map(){
     
 }
